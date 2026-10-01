@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meter</string>
+
+    <string name="channel_alerts_name">Quota alerts</string>
+    <string name="channel_alerts_desc">Threshold warnings for a data source</string>
+    <string name="channel_status_name">Meter status</string>
+    <string name="channel_status_desc">Keeps background accounting alive</string>
+
+    <string name="svc_title">Meter is counting</string>
+    <string name="svc_text">%1$s</string>
+
+    <string name="alert_title_threshold">Quota alert</string>
+    <string name="alert_title_blocked">Quota exhausted</string>
+    <string name="alert_body_threshold">%1$s — %2$d%% of its quota used (%3$s of %4$s).</string>
+    <string name="alert_body_blocked">%1$s — 100%% of its quota used (%1$s). This source is blocked; your other sources keep working.</string>
+    <string name="alert_wifi_disabled">%1$s reached its quota and has been disconnected. Other sources stay online.</string>
+    <string name="alert_killswitch_on">Mobile data %1$s reached its quota. Data is paused while this SIM is the active connection.</string>
+</resources>

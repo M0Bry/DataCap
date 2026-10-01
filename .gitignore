@@ -1,0 +1,21 @@
+# OS / env junk
+.sudo_as_admin_successful
+.android/
+uploads/
+
+# Build artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+build/
+.gradle/
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node (if applicable)
+node_modules/

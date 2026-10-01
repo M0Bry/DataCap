@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Design tokens, kept in one place so the XML theme and Compose agree -->
+    <color name="meter_bg">#FF0A0A0A</color>
+    <color name="meter_card">#FF131313</color>
+    <color name="meter_accent">#FF00E5A0</color>
+</resources>
